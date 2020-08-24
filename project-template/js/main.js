@@ -31,3 +31,14 @@ console.log(teacher1);
 console.log(teacher2);
 // console.log(teacher3);
 // console.log(teacher4);
+
+
+let person = {
+  name: "Ida Kronborg Nielsen";
+  origin: "Aarhus";
+  background: "22 years old, a smiling person who wants to have fun";
+  whyFronted: "It's fun to code, and i wonna learn more";
+  expectations: "To be better at it ";
+};
+
+console.log(person);
